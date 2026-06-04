@@ -1,4 +1,4 @@
-# Multi-Agent Travel Planner
+# 🌍 Multi-Agent Travel Planner
 
 LLM-based multi-agent travel assistant for personalized trip planning built using Python, CrewAI, and LLMs.
 
@@ -6,7 +6,7 @@ An AI-powered multi-agent travel assistant designed to create smart and personal
 
 ---
 
-## Features
+## ✨ Features
 
 * Personalized trip planning
 * Multi-agent collaboration system
@@ -18,7 +18,7 @@ An AI-powered multi-agent travel assistant designed to create smart and personal
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 * Python
 * CrewAI
@@ -28,7 +28,7 @@ An AI-powered multi-agent travel assistant designed to create smart and personal
 
 ---
 
-## Project Workflow
+## ⚙️ Project Workflow
 
 1. User enters travel requirements
 2. AI agents analyze preferences and budget
@@ -38,7 +38,7 @@ An AI-powered multi-agent travel assistant designed to create smart and personal
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 ```bash
 Multi-agent-travel-planner/
@@ -47,9 +47,10 @@ Multi-agent-travel-planner/
 ├── requirements.txt
 └── README.md
 ```
+
 ---
 
-## Example Use Case
+## 🚀 Example Use Case
 
 Input:
 
@@ -66,7 +67,7 @@ Output:
 
 ---
 
-## Future Improvements
+## 🔮 Future Improvements
 
 * Real-time weather integration
 * Flight and hotel APIs
@@ -76,6 +77,6 @@ Output:
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 Himanshu Tomar
